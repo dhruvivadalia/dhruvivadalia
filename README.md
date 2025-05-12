@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hello world! I'm Dhruvi, and I write code like I brew coffee — strong and error-free (most of the time).
+
 
 <!--
 **dhruvivadalia/dhruvivadalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
